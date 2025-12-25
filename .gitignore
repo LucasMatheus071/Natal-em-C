@@ -1,0 +1,15 @@
+# Executáveis e arquivos de build
+*.exe
+*.o
+*.out
+
+# Pastas de build
+.dist/
+build/
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.log
